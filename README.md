@@ -54,3 +54,9 @@ If characters get lost or you want them in new spots:
 ## Goal of the Project
 
 The goal of this project is to provide a modern and lightweight Python implementation of desktop mascots while maintaining compatibility with the vast library of existing Shimeji character packs.
+
+## Support the Project
+
+If you enjoy using PyShimeji and would like to support my work, you can buy me a coffee.
+
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/naguroka)
