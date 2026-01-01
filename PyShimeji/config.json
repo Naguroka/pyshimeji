@@ -1,0 +1,12 @@
+{
+    "fps": 60,
+    "sound": false,
+    "volume": 8,
+    "interact_windows": true,
+    "blacklisted_windows": [
+        "Program Manager",
+        "Settings"
+    ],
+    "launch_power_min": 17,
+    "launch_power_max": 50
+}

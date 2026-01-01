@@ -1,0 +1,4 @@
+PyQt6
+lxml
+Pillow
+pywin32

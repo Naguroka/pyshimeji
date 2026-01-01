@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+.gemini/
+.idea/
+.vscode/
+# Keep config, media and zips as requested for 'pushing everything'
