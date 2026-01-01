@@ -2,7 +2,7 @@
 
 PyShimeji is a Python port of the original Shimeji project. It allows you to have small animated characters called mascots or shimejis wandering around your screen while you work.
 
-![Main Screenshot](2025-12-31 22_33_32-.png)
+![Main Screenshot](screenshot_main.png)
 
 ## Overview
 
@@ -39,7 +39,7 @@ This application brings the fun of desktop mascots to Python. While it was initi
 2.  Right click the icon to open the menu.
 3.  Choose **Settings** to adjust the framerate, volume, or launch power.
 
-![Settings Screenshot](2025-12-31 22_33_46-PyShimeji Settings.png)
+![Settings Screenshot](screenshot_settings.png)
 
 ### Resetting Positions
 
@@ -49,7 +49,7 @@ If characters get lost or you want them in new spots:
 
 ## Demonstration
 
-![Working Video](2025-12-31 18-55-18.mp4)
+![Working Video](demo_video.mp4)
 
 ## Goal of the Project
 
