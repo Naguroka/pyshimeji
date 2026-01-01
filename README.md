@@ -49,7 +49,7 @@ If characters get lost or you want them in new spots:
 
 ## Demonstration
 
-![Working Video](demo_video.mp4)
+<video src="demo_video.mp4" width="600" controls></video>
 
 ## Goal of the Project
 
